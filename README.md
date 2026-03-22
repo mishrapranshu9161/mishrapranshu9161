@@ -1,130 +1,103 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=header"/>
+<div align="center">
+
+
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranshu%20Mishra&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Flask%20%E2%80%A2%20LLM%20Systems&descSize=16&descAlignY=62&descAlign=50&stroke=00d4ff&strokeWidth=2)
+
+
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranshu+%F0%9F%91%8B;AI+%2F+ML+Developer;Flask+%2B+Python+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
-
-<br/>
-
 [
 
-![Profile Views](https://komarev.com/ghpvc/?username=mishrapranshu9161&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+systems+that+think...+%F0%9F%A7%A0;Integrating+LLMs+into+real+products...+%F0%9F%A4%96;Face+Recognition+%2B+GPS+%2B+AI+%3D+UniversityNova+%F0%9F%8F%9B%EF%B8%8F;Open+to+work+%E2%80%94+let%27s+build+something+%F0%9F%9A%80)
 
-](https://github.com/mishrapranshu9161)
-&nbsp;
-[
-
-![GitHub followers](https://img.shields.io/github/followers/mishrapranshu9161?style=for-the-badge&color=3b82f6&labelColor=0f172a)
-
-](https://github.com/mishrapranshu9161?tab=followers)
+](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## 🧠 About Me
-
-```python
-developer = {
-    "name"       : "Pranshu Mishra",
-    "university" : "SRMU Lucknow — B.Tech CS (6th Sem)",
-    "location"   : "Lucknow, India 🇮🇳",
-    "focus"      : ["AI/ML Integration", "Flask Web Apps", "Face Recognition"],
-    "currently"  : "Building UniversityNova — AI-powered University ERP",
-    "learning"   : ["Deep Learning", "NLP", "Computer Networks"],
-    "open_to"    : ["Collaborations", "Internships", "Research"]
-}
-🛠️ Tech Stack
-Languages
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+whoami
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```yaml
+name        : Pranshu Mishra
+role        : AI/ML Developer + Full-Stack Engineer
+university  : SRMU Lucknow — B.Tech Computer Science (Sem 6)
+location    : Lucknow, India 🇮🇳
+currently   : UniversityNova — AI-powered University ERP
+interests   : [LLM Systems, Face Recognition, REST APIs, GenAI]
+status      : open_to_work → internships & collaborations ✅
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  tech_stack --list
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+Core Languages
 �
-Load image
 �
-Load image
 �
-Load image
 �
-Load image
+Backend & Web
 �
-Load image
-Frameworks & Libraries
 �
-Load image
 �
-Load image
 �
-Load image
 AI / ML
 �
-Load image
 �
-Load image
 �
-Load image
 �
-Load image
-Databases & Tools
+Database & DevTools
 �
-Load image
 �
-Load image
 �
-Load image
 �
-Load image
-�
-Load image
-🚀 Featured Project — UniversityNova
-AI-Integrated University ERP System — Full-scale platform built with Python Flask, powering smart attendance, LLM study assistant, and real-time analytics.
-Module
-Technology
-Status
-🎭 Smart Attendance
-OpenCV + Face Recognition + GPS Haversine
-✅ Building
-🤖 AI Study Bot
-Groq LLM + Syllabus-aware prompting
-✅ Building
-💰 Fee Management
-ReportLab PDF + UPI/NetBanking
-✅ Building
-📊 Analytics Dashboard
-Chart.js + SQLAlchemy
-✅ Building
-👥 Role System
-Admin • Teacher • Student
-✅ Building
-Stack: Python 3.11 • Flask • SQLite • Bootstrap • OpenCV • Groq API • ReportLab
-📊 GitHub Stats
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  projects --featured
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+🏛️ UniversityNova
+A full-scale, AI-integrated University ERP — built from scratch
+project = {
+  "stack"   : "Python Flask + SQLite + Bootstrap + OpenCV + Groq LLM",
+  "modules" : [
+    "Smart Attendance  →  GPS verification + Face Recognition",
+    "AI Study Bot      →  Syllabus-aware LLM via Groq API",
+    "Fee Management    →  UPI/NetBanking + PDF Receipts",
+    "Analytics         →  Real-time Dashboard via Chart.js",
+    "Role System       →  Admin | Teacher | Student"
+  ],
+  "status"  : "actively building 🔧"
+}
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  github --stats
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 �
 
 �
 ￼ ￼
 �
+
+�
+
+�
 ￼
 �
 
-🏆 GitHub Trophies
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  activity --graph
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 �
 
 �
-Load image
-�
-
-📈 Contribution Graph
-�
-Load image
-🐍 Contribution Snake
-�
-
-�
-Load image
 �
 
 �
 
-"Building systems that think."
-⭐ Star my repos if you find them useful!
 �
-
+> system.message("let's build something that matters")
+[
 �
-￼ ```
+](https://github.com/mishrapranshu9161)
+�
+```
